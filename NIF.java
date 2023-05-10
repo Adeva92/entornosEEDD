@@ -1,4 +1,5 @@
-package actividad24;
+package actividad24; 
+Fantasttico TODO
 
 import java.util.Formatter;
 import java.util.Scanner;
